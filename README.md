@@ -1,4 +1,5 @@
-Contexto e Objetivos: Notebook LM assistende de carreira - Análise de dados
+Contexto e Objetivos: Notebook LM assistende de carreira - Análise de dados 
+Link do NotebookLM: https://notebooklm.google.com/notebook/19dbd837-de07-4509-b6cb-7670892ec0d1
 
 Curadoria de Fontes: Fontes de vídeo: 
 https://www.youtube.com/watch?v=INVdv_modxE - Bruce Fonseca - Análise de Dados
